@@ -24,10 +24,10 @@
             <version>2.0</version>
     <configuration>
         <deploymentType>cloudhub</deploymentType>
-        <username>vigneshprabhu</username>
+        <muleVersion>3.8.5</deploymentType>
+        <username>vigneshprabhu</muleVersion>
         <password>Whoopy@410</password>
         <workerType>Micro</workerType>
-        <!-- One of: server, serverGroup, cluster: -->
         <redeploy>true</redeploy>
         <environment>Sandbox</environment>
     </configuration>
