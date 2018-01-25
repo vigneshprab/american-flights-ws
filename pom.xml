@@ -24,8 +24,8 @@
             <version>2.1</version>
     <configuration>
         <deploymentType>cloudhub</deploymentType>
-        <muleVersion>3.8.5</deploymentType>
-        <username>vigneshprabhu</muleVersion>
+        <muleVersion>3.8.5</muleVersion>
+        <username>vigneshprabhu</username>
         <password>Whoopy@410</password>
         <workerType>Micro</workerType>
         <redeploy>true</redeploy>
